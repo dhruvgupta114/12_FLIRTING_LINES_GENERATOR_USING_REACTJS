@@ -1,0 +1,36 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    margin-top: 250px;
+    background: #626ac4;
+    width: 800px;
+    border-radius: 15px;
+}
+.flirt{
+    padding: 60px 110px;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+}
+/* .line{
+    width: 680px;
+    height: 1.5px;
+    background: white;
+}
+.bottom{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0;
+} */
+.lines{
+    padding: 20px;
+    color: white;
+    font-size: 20px;
+}
+.lines i{
+    cursor: pointer;
+}
